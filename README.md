@@ -1,5 +1,7 @@
 # CS390 - Lesson 5  
 Purdue CS390 - VR - Lesson 5  
+  
+Github: https://github.com/harrischristiansen/CS390-Lesson5  
 
 ## Synopsis  
 
